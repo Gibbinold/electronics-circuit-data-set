@@ -1,13 +1,13 @@
 <annotation>
-	<folder>all-images</folder>
+	<folder>Rotate</folder>
 	<filename>circuit763.jpg</filename>
-	<path>/Users/Joe/Documents/Data-Aug-Test/all-images/circuit763.jpg</path>
+	<path>/Users/Joe/Documents/GitHub/Errors/Rotate/circuit763.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>1543</width>
+		<height>1549</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1809</xmin>
-			<ymin>1269</ymin>
-			<xmax>2017</xmax>
-			<ymax>1469</ymax>
+			<xmin>566</xmin>
+			<ymin>550</ymin>
+			<xmax>775</xmax>
+			<ymax>769</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2137</xmin>
-			<ymin>1288</ymin>
-			<xmax>2345</xmax>
-			<ymax>1489</ymax>
+			<xmin>551</xmin>
+			<ymin>878</ymin>
+			<xmax>754</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Capacitor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>1167</ymin>
+			<xmax>809</xmax>
+			<ymax>1336</ymax>
 		</bndbox>
 	</object>
 </annotation>

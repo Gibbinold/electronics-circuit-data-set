@@ -1,62 +1,62 @@
 <annotation>
-	<folder>all-images</folder>
+	<folder>Rotate</folder>
 	<filename>circuit759.jpg</filename>
-	<path>/Users/Joe/Documents/Data-Aug-Test/all-images/circuit759.jpg</path>
+	<path>/Users/Joe/Documents/GitHub/Errors/Rotate/circuit759.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>2943</width>
+		<height>2949</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>Resistor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1408</xmin>
-			<ymin>1552</ymin>
-			<xmax>1653</xmax>
-			<ymax>1694</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Resistor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1817</xmin>
-			<ymin>1156</ymin>
-			<xmax>2056</xmax>
-			<ymax>1339</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Resistor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2485</xmin>
-			<ymin>1104</ymin>
-			<xmax>2608</xmax>
-			<ymax>1365</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>Capacitor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2569</xmin>
-			<ymin>1139</ymin>
-			<xmax>2769</xmax>
-			<ymax>1491</ymax>
+			<xmin>1126</xmin>
+			<ymin>558</ymin>
+			<xmax>1470</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1084</xmin>
+			<ymin>741</ymin>
+			<xmax>1337</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1137</xmin>
+			<ymin>1285</ymin>
+			<xmax>1329</xmax>
+			<ymax>1511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1543</xmin>
+			<ymin>1694</ymin>
+			<xmax>1646</xmax>
+			<ymax>1929</ymax>
 		</bndbox>
 	</object>
 </annotation>

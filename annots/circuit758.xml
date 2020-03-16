@@ -1,13 +1,13 @@
 <annotation>
-	<folder>all-images</folder>
+	<folder>Rotate</folder>
 	<filename>circuit758.jpg</filename>
-	<path>/Users/Joe/Documents/Data-Aug-Test/all-images/circuit758.jpg</path>
+	<path>/Users/Joe/Documents/GitHub/Errors/Rotate/circuit758.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>4032</width>
-		<height>3024</height>
+		<width>1983</width>
+		<height>1982</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1551</xmin>
-			<ymin>1633</ymin>
-			<xmax>1833</xmax>
-			<ymax>1824</ymax>
+			<xmin>1051</xmin>
+			<ymin>313</ymin>
+			<xmax>1220</xmax>
+			<ymax>586</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1842</xmin>
-			<ymin>1633</ymin>
-			<xmax>1994</xmax>
-			<ymax>1814</ymax>
+			<xmin>1043</xmin>
+			<ymin>584</ymin>
+			<xmax>1200</xmax>
+			<ymax>772</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2208</xmin>
-			<ymin>1647</ymin>
-			<xmax>2385</xmax>
-			<ymax>1819</ymax>
+			<xmin>1034</xmin>
+			<ymin>972</ymin>
+			<xmax>1191</xmax>
+			<ymax>1137</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2576</xmin>
-			<ymin>1665</ymin>
-			<xmax>2759</xmax>
-			<ymax>1820</ymax>
+			<xmin>1018</xmin>
+			<ymin>1345</ymin>
+			<xmax>1185</xmax>
+			<ymax>1504</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2759</xmin>
-			<ymin>1673</ymin>
-			<xmax>3029</xmax>
-			<ymax>1843</ymax>
+			<xmin>1022</xmin>
+			<ymin>1533</ymin>
+			<xmax>1189</xmax>
+			<ymax>1794</ymax>
 		</bndbox>
 	</object>
 </annotation>
