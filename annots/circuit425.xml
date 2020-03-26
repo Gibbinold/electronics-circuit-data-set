@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Individuals</folder>
+	<filename>circuit425.jpg</filename>
+	<path>/Users/Joe/Documents/GitHub/Individuals/circuit425.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>296</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>111</ymin>
+			<xmax>190</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
