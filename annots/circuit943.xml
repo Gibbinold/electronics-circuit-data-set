@@ -1,7 +1,7 @@
 <annotation>
-	<folder>9f247-nNmrNTAaoErNN-output</folder>
+	<folder>images</folder>
 	<filename>circuit943.jpg</filename>
-	<path>/Users/Joe/Documents/Data-Unlabelled/9f247-nNmrNTAaoErNN-output/circuit943.jpg</path>
+	<path>/Users/Joe/Documents/GitHub/electronics-circuit-data-set/images/circuit943.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -153,6 +153,30 @@
 			<ymin>398</ymin>
 			<xmax>1004</xmax>
 			<ymax>740</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>774</ymin>
+			<xmax>451</xmax>
+			<ymax>886</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Resistor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>871</ymin>
+			<xmax>366</xmax>
+			<ymax>918</ymax>
 		</bndbox>
 	</object>
 </annotation>

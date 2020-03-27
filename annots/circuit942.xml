@@ -1,7 +1,7 @@
 <annotation>
-	<folder>9f247-nNmrNTAaoErNN-output</folder>
+	<folder>images</folder>
 	<filename>circuit942.jpg</filename>
-	<path>/Users/Joe/Documents/Data-Unlabelled/9f247-nNmrNTAaoErNN-output/circuit942.jpg</path>
+	<path>/Users/Joe/Documents/GitHub/electronics-circuit-data-set/images/circuit942.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,18 @@
 			<ymin>672</ymin>
 			<xmax>1367</xmax>
 			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Diode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>197</ymin>
+			<xmax>404</xmax>
+			<ymax>335</ymax>
 		</bndbox>
 	</object>
 </annotation>
